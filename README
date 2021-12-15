@@ -1,0 +1,7 @@
+# xDy
+A simple shell script die for RPGs
+
+# Running xDy:
+git clone https://github.com/rodricbr/xdy.git
+cd xdy/;chmod +x xdy
+./xdy
