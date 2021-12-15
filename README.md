@@ -4,8 +4,8 @@ A simple shell script die for RPGs <br>
 <br>
 
 # Running xDy: <br>
-> `git clone https://github.com/rodricbr/xdy.git` <br>
+- `git clone https://github.com/rodricbr/xdy.git` <br>
 
-> `cd xdy/;chmod +x xdy` <br>
+- `cd xdy/;chmod +x xdy` <br>
 
-> `./xdy`
+- `./xdy`
