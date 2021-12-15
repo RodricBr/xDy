@@ -1,7 +1,7 @@
 # xDy
 A simple shell script die for RPGs <br>
 
-<hr>
+<br>
 
 # Running xDy: <br>
 > `git clone https://github.com/rodricbr/xdy.git` <br>
