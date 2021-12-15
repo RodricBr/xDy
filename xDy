@@ -21,7 +21,7 @@ read -rp "$(echo -e $VERDE"Range: "$FIM)" ALCANCE
 
 # Se o output do dado e do alcance forem alfabéticos (não forem números)...
 if [[ "$DADO" =~ ^[[:alpha:]]$ && "$ALCANCE" =~ ^[[:alpha:]]$ ]]; then
-  echo -e "Apenas números são válidos!"
+  echo -e "Only numbers are valid!"
   exit 1
 else
   :
