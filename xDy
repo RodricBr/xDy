@@ -15,7 +15,7 @@ echo -e ${VERDE}'        ______
 
 # Número da contagem de rodadas do dado
 echo ""
-read -rp "$(echo -e $VERDE"Amount: "$FIM)" DADO
+read -rp "$(echo -e $VERDE"Dices: "$FIM)" DADO
 read -rp "$(echo -e $VERDE"Range: "$FIM)" ALCANCE
 #FIM=5
 
