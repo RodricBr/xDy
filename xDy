@@ -11,7 +11,7 @@ echo -e "${VERDE}"'        ______
 ( \ / )| |   | || | | |
  ) X ( | |__/ / | |_| |
 (_/ \_)|_____/   \__  |
-                (____/'"${FIM}"
+ by: rodricbr   (____/'"${FIM}"
 
 # Número da contagem de rodadas do dado
 echo ""
