@@ -31,5 +31,5 @@ fi
 INDEX=0
 for ((i = 1; i <= DADO; i++)); do
   (( "INDEX+=1" )) || :; printf "${ROXO}[$INDEX]${FIM} ${VERDE}Number:${FIM} %s\n" "$(echo $((RANDOM % "$ALCANCE + 1")))"
-  #(( "INDEX+=1" )) || :; é a mesma coisa que let "INDEX+=1"
+  #(( "INDEX+=1" )) || : é a mesma coisa que let "INDEX+=1", onde : é a mesma coisa que true
 done
